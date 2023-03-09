@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "task": "Throw the rubish",
+        "complete": false
+    },
+    {
+        "id": 2,
+        "task": "Wash the bathroom",
+        "complete": false
+    },
+    {
+        "id": 3,
+        "task": "Hoover the house",
+        "complete": false
+    },
+    {
+        "id": 4,
+        "task": "Do washing up",
+        "complete": false
+    },
+    {
+        "id": 5,
+        "task": "Do testing",
+        "complete": false
+    }
+]

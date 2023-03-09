@@ -1,0 +1,73 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+
+}
+
+h1.heading {
+  margin: 40px 0;
+  color: #064d13;
+}
+
+form {
+  margin-bottom: 50px;
+}
+
+input.newTask {
+  width: 50%;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid rgb(60, 163, 71);
+  padding-left: 10px;
+  margin-right: 5px;
+}
+
+.save-btn {
+  padding: 8px;
+  border: 1px solid rgb(60, 163, 71);
+  border-radius: 10px;
+  color: rgb(60, 163, 71);
+  background-color: #f7f7f7;
+  font-weight: 600;
+}
+
+.save-btn:hover {
+  background-color: rgb(83, 187, 93);
+  color: #f7f7f7;
+  border: 1px solid rgb(83, 187, 93);
+}
+
+table {
+  border: 1px solid green;
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+}
+
+td, th {
+  border: 1px solid green;
+  padding: 15px;
+}
+
+th {
+  background-color: rgb(83, 187, 93);
+  color: #043d0e;
+  padding: 10px;
+}
+
+button.trash-btn {
+  border: none;
+  background-color: #fff;
+  font-size: 18px;
+  color: #064d13;
+}
+
+.strikeTask {
+  text-decoration: line-through;
+}
+
+.actions {
+  width: 10%;
+}
+
+
